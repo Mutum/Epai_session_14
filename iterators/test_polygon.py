@@ -6,7 +6,7 @@ import inspect
 import polygon
 # import custom_polygon
 
-os.chdir("D:\Courses\EPAI\session_14\Iterables_and_Iterators\iterators")
+# os.chdir("D:\Courses\EPAI\session_14\Iterables_and_Iterators\iterators")
 
 from polygon import Polygon as Polygon
 # from custom_polygon import Polygons as Polygons
